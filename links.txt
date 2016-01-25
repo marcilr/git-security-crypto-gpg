@@ -11,3 +11,7 @@ Links
 GnuPG
 The GNU Privacy Guard
 https://www.gnupg.org/
+
+GnuPG - Libraries
+This page collects libraries related to GnuPG project.
+https://www.gnupg.org/related_software/libraries.html
