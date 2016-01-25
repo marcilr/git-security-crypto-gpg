@@ -1,0 +1,29 @@
+gpg.txt
+Created Mon Jan 25 10:32:08 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+GnuPG
+The GNU Privacy Guard
+
+GnuPG is a complete and free implementation of the OpenPGP standard as
+defined by RFC4880[1] (also known as PGP).  GnuPG allows to encrypt and
+sign your data and communication, features a versatile key management
+system as well as access modules for all kinds of public key directories.
+GnuPG, also known as GPG, is a command line tool with features for easy
+integration with other applications.  A wealth of frontend applications[2] 
+and libraries are available.  Version 2 of GnuPG also provides support for
+S/MIME and Secure Shell (ssh).
+
+
+Links
+=====
+[1] RFC4880
+http://www.ietf.org/rfc/rfc4880.txt
+
+[2] frontend applications
+https://www.gnupg.org/related_software/frontends.html
+
+GnuPG
+The GNU Privacy Guard
+https://www.gnupg.org/
