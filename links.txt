@@ -19,3 +19,7 @@ https://www.gnupg.org/related_software/libraries.html
 GNU Privacy Guard
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+
+GPGFS
+GPG encrypted files through FUSE
+https://github.com/jseppanen/gpgfs
