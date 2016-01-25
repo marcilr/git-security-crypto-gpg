@@ -52,3 +52,9 @@ Validating other keys on your public keyring
 Chapter 3. Key Management
 GNU Privacy Handbook
 https://www.gnupg.org/gph/en/manual/x334.html
+
+Writing user interfaces
+Chapter 5. Topics
+The GNU Privacy Handbook
+https://www.gnupg.org/gph/en/manual/c562.html
+
