@@ -12,6 +12,11 @@ Encrypted Filesystem for FUSE
 Interesting EncFS and GPGFS comments.
 http://sourceforge.net/p/encfs/mailman/message/1321185/
 
+Encrypting and decrypting documents
+The GNU Privacy Handbook
+Chapter 1. Getting Started
+https://www.gnupg.org/gph/en/manual/x110.html
+
 GnuPG
 The GNU Privacy Guard
 https://www.gnupg.org/
@@ -27,3 +32,19 @@ https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 GPGFS
 GPG encrypted files through FUSE
 https://github.com/jseppanen/gpgfs
+
+Chapter 3. Key Management
+The GNU Privacy Handbook
+o Managing your own keypair
+https://www.gnupg.org/gph/en/manual/c235.html
+
+Public-key ciphers
+The GNU Privacy Handbook
+Chapter 2. Concepts
+https://www.gnupg.org/gph/en/manual/x195.html
+
+Validating other keys on your public keyring
+Chapter 3. Key Management
+GNU Privacy Handbook
+https://www.gnupg.org/gph/en/manual/x334.html
+
