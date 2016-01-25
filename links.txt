@@ -8,6 +8,10 @@ gpg related links
 
 Links
 =====
+Encrypted Filesystem for FUSE
+Interesting EncFS and GPGFS comments.
+http://sourceforge.net/p/encfs/mailman/message/1321185/
+
 GnuPG
 The GNU Privacy Guard
 https://www.gnupg.org/
