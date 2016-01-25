@@ -8,6 +8,10 @@ gpg related links
 
 Links
 =====
+Daily use of GnuPG
+Chapter 4, The GNU Privacy Handbook
+https://www.gnupg.org/gph/en/manual/c481.html
+
 Encrypted Filesystem for FUSE
 Interesting EncFS and GPGFS comments.
 http://sourceforge.net/p/encfs/mailman/message/1321185/
@@ -33,7 +37,8 @@ GPGFS
 GPG encrypted files through FUSE
 https://github.com/jseppanen/gpgfs
 
-Chapter 3. Key Management
+Key Management
+Chapter 3
 The GNU Privacy Handbook
 o Managing your own keypair
 https://www.gnupg.org/gph/en/manual/c235.html
@@ -47,4 +52,3 @@ Validating other keys on your public keyring
 Chapter 3. Key Management
 GNU Privacy Handbook
 https://www.gnupg.org/gph/en/manual/x334.html
-
