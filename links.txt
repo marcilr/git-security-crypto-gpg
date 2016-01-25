@@ -8,6 +8,11 @@ gpg related links
 
 Links
 =====
+Command Reference
+I. Command Reference
+The GNU Privacy Handbook
+https://www.gnupg.org/gph/en/manual/r590.html
+
 Daily use of GnuPG
 Chapter 4, The GNU Privacy Handbook
 https://www.gnupg.org/gph/en/manual/c481.html
